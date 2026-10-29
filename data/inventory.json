@@ -1,0 +1,103 @@
+{
+  "updated": "2026-10-29",
+  "owner": "Glenn Velasco",
+  "brokerage": "Compass NYC",
+  "agents": [
+    {
+      "id": "rita-hsieh-nova",
+      "name": "Rita Hsieh",
+      "brokerage": "Compass",
+      "metro": "Northern Virginia",
+      "subArea": "McLean / Northern Virginia",
+      "cityLabel": "McLean, VA",
+      "referralType": "Nova contact",
+      "status": "inventory",
+      "lat": 38.9339,
+      "lng": -77.1773
+    },
+    {
+      "id": "lauren-leithead-main-line",
+      "name": "Lauren Leithead",
+      "brokerage": "Compass Main Line",
+      "metro": "Philadelphia Main Line",
+      "subArea": "Merion Station / western suburbs (not Center City)",
+      "cityLabel": "Merion Station, PA",
+      "referralType": "Soft mutual referral",
+      "status": "soft mutual referral",
+      "lat": 39.999,
+      "lng": -75.253
+    },
+    {
+      "id": "david-archibeque-santa-fe",
+      "name": "David Archibeque",
+      "brokerage": "Coldwell Banker Legacy",
+      "metro": "Santa Fe, NM",
+      "subArea": "Santa Fe and northern New Mexico",
+      "cityLabel": "Santa Fe, NM",
+      "referralType": "Referral partner",
+      "status": "inventory",
+      "lat": 35.687,
+      "lng": -105.9378
+    },
+    {
+      "id": "david-archibeque-albuquerque",
+      "name": "David Archibeque",
+      "brokerage": "Coldwell Banker Legacy",
+      "metro": "Albuquerque, NM",
+      "subArea": "Albuquerque metro, Placitas, Los Lunas, Rio Rancho",
+      "cityLabel": "Albuquerque, NM",
+      "referralType": "Referral partner",
+      "status": "inventory",
+      "lat": 35.0844,
+      "lng": -106.6504
+    },
+    {
+      "id": "david-archibeque-san-francisco",
+      "name": "David Archibeque",
+      "brokerage": "Compass",
+      "metro": "San Francisco, CA",
+      "subArea": "San Francisco (Glen Park, Noe Valley, Castro, Mission, SoMa) plus Napa",
+      "cityLabel": "San Francisco, CA",
+      "referralType": "Referral partner",
+      "status": "inventory",
+      "lat": 37.7749,
+      "lng": -122.4194
+    },
+    {
+      "id": "alejandro-di-francesco-santa-cruz",
+      "name": "Alejandro Gabriel Di Francesco",
+      "brokerage": "CENTURY 21 Loyalty",
+      "metro": "Santa Cruz, Bolivia",
+      "subArea": "Santa Cruz de la Sierra",
+      "cityLabel": "Santa Cruz, Bolivia",
+      "referralType": "Referral partner (international)",
+      "status": "inventory",
+      "lat": -17.7833,
+      "lng": -63.1821
+    },
+    {
+      "id": "jessica-sinton-greater-philly",
+      "name": "Jessica Sinton",
+      "brokerage": "Compass (Ardmore office)",
+      "metro": "Greater Philadelphia, PA",
+      "subArea": "Philadelphia, Chester, Delaware and Montgomery Counties",
+      "cityLabel": "Ardmore, PA (Main Line)",
+      "referralType": "Referral partner",
+      "status": "inventory",
+      "lat": 40.0079,
+      "lng": -75.2905
+    },
+    {
+      "id": "kathleen-usherwood-stamford",
+      "name": "Kathleen Usherwood",
+      "brokerage": "Compass (Stamford)",
+      "metro": "Fairfield County, CT",
+      "subArea": "Stamford and Fairfield County",
+      "cityLabel": "Stamford, CT",
+      "referralType": "Referral partner",
+      "status": "inventory",
+      "lat": 41.0534,
+      "lng": -73.5387
+    }
+  ]
+}
